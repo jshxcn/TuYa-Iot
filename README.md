@@ -4,11 +4,11 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 
 # 智能宠物喂食机
 
-# 应用场景
-##1、使用地点
-##2、功能
+## 一、应用场景
+### 1、使用地点
+### 2、功能
 
-#开发计划
-##1、物料准备
-##2、开发
-##3、调试
+## 二、开发计划
+### 1、物料准备
+### 2、开发
+### 3、调试
